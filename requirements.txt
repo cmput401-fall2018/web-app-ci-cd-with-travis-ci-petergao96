@@ -83,7 +83,6 @@ SciTools==0.9.0
 scour==0.32
 service-identity==16.0.0
 simplegeneric==0.8.1
-six==1.10.0
 SOAPpy==0.12.22
 stevedore==1.12.0
 trollius==2.0.1
